@@ -34,3 +34,6 @@ After the script is ran, a `turtle` graphics window will show up. It takes keybo
 
 ## resetting
 To reset, press the grey square near the bottom
+
+## plugboard
+This implementation currently does not support plugboard editing
